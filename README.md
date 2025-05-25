@@ -95,36 +95,67 @@ Delivering insights through dashboards that communicate stories, not just number
 
 
 
-
 📊 **Selected Projects**
 
 
 
 📁 AKH IT & Employee Analysis
-An HR analytics dashboard focused on departmental performance, employee distribution, and resource optimization using Power BI.
+
+
+I built an HR analytics dashboard using Power BI to explore departmental performance, 
+employee distribution, and resource optimization.
+
+
 
 📁 Phone Sales Dashboard
-Visualized sales performance by category and time using Excel and Power BI, helping identify top-performing products and sales cycles.
+
+
+Analyzed mobile phone sales by category and time. Created a dashboard using Excel
+and Power BI to identify top-performing products and seasonal trends.
+
 
 📁 Global Sales Dashboard
-Regional performance analysis with dynamic filters and KPIs to support global sales strategy decisions.
+
+
+Developed an interactive dashboard that highlights regional performance using KPIs
+and filters—designed to support global strategic decisions.
+
+
 
 📁 Sleep Analysis Dashboard
-Time-series behavioral data analysis highlighting sleep patterns and key insights, designed for health & wellness analytics.
+
+
+Visualized time-series data to track sleep patterns 
+and generate health & wellness insights. Designed in Power BI for intuitive interpretation.
+
+
 
 📁 E-commerce Sales Dashboard (New)
-Conversion funnel, revenue insights, and top-selling products visualized for strategic decision-making.
 
-🔄 More projects (5–7) are currently under development and will soon be added.
 
-✅ All dashboards are based on real business scenarios, with a focus on clarity, interactivity, and actionable insights.
+Built a dashboard showing conversion funnels, revenue insights, 
+and top-selling products for better e-commerce strategy planning.
 
-🔧 Tools Used: Power BI, Excel, SQL
+
+
+
+🔄 I’m currently working on more real-world dashboards that will be added soon.
+
+
+
+
+✅ All dashboards are based on real business scenarios and designed to be interactive, visually clean, and actionable.
+
+
+
+
+🔧 Tools Used: Power BI • Excel • SQL
 
 
 
 
 ---
+
 
 
 
